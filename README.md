@@ -1,4 +1,4 @@
-# Basic JPA Example
+# Basic JPA
 A basic and bare bone Java example with JPA for database manipulation.
 
 ### Instructions
